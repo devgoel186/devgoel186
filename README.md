@@ -6,21 +6,12 @@
 
 ### Tools and Technologies I am experienced with : 
 
-* HTML
-* CSS
-* Javascript
+* HTML, CSS, Javascript
 * MongoDB
-* ReactJS
-* Redux
-* GatsbyJS
-* GraphQL
 * ExpressJS
+* ReactJS, Redux, GatsbyJS, GraphQL
 * NodeJS
-* Java
-* C
-* C++ 
-* Python
-* Tkinter
+* Java, C, C++, Python, Tkinter
 * R and RStudio
 
 ### 📫 How to reach me: 
