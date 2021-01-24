@@ -9,9 +9,10 @@
 * HTML, CSS, Javascript
 * MongoDB
 * ExpressJS
-* ReactJS, Redux, GatsbyJS, GraphQL
+* ReactJS, Redux, GatsbyJS, GraphQL, NextJS
 * NodeJS
-* Java, C, C++, Python, Tkinter
+* TypeScript, SASS
+* Java, C, C++, Python, Tkinter, PyGame
 * R and RStudio
 
 ### 📫 How to reach me: 
