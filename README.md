@@ -14,6 +14,7 @@
 * TypeScript, SASS
 * Java, C, C++, Python, Tkinter, PyGame
 * R and RStudio
+* SQL
 
 ### 📫 How to reach me: 
 
