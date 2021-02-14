@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a student pursuing an undergraduate degree in Computer Science. I am also a Full-Stack Web Developer, with experience in MERN Stack.
 
-- 🌱 I’m currently learning and exploring everything 😄!
+- 🌱 I’m currently learning and exploring everything 😄! Enough of WebDev, gonna deepdive into AppDev now.
 
 ### Tools and Technologies I am experienced with : 
 
