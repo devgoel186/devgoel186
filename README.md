@@ -15,6 +15,7 @@
 * Java, C, C++, Python, Tkinter, PyGame
 * R and RStudio
 * SQL
+* React Native
 
 ### 📫 How to reach me: 
 
