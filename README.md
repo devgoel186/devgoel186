@@ -19,6 +19,6 @@
 
 ### 📫 How to reach me: 
 
-* **My Portfolio** - [<img alt="Dev Goel" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://dev-goel.netlify.app/)
-* **Twitter** - [<img alt="Dev Goel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/goeldev01)
-* **LinkedIn** - [<img alt="Dev Goel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dev-goel-833a25197/)
+* [**My Portfolio**](https://dev-goel.netlify.app/)
+* [**Twitter**](https://twitter.com/goeldev01)
+* [**LinkedIn**](https://www.linkedin.com/in/dev-goel-833a25197/)
