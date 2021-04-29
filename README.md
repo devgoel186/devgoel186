@@ -17,6 +17,12 @@
 * SQL
 * React Native
 
+### Currently learning and exploring
+
+* Network Penetration and Testing
+* Machine Learning
+* Statistical Inference with Python
+
 ### 📫 How to reach me: 
 
 * [**My Portfolio**](https://dev-goel.netlify.app/)
