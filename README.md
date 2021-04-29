@@ -17,7 +17,7 @@
 * SQL
 * React Native
 
-### Currently learning and exploring
+### Currently learning and exploring:
 
 * Network Penetration and Testing
 * Machine Learning
