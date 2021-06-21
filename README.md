@@ -16,6 +16,7 @@
 * R and RStudio
 * SQL
 * React Native
+* ElectronJS
 
 ### Currently learning and exploring:
 
