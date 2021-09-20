@@ -31,7 +31,7 @@
 * [**LinkedIn**](https://www.linkedin.com/in/dev-goel-833a25197/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devgoel186&count_private=true&theme=merko&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devgoel186&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devgoel186&repo=convoychat" />
