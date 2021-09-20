@@ -30,4 +30,4 @@
 * [**Twitter**](https://twitter.com/goeldev01)
 * [**LinkedIn**](https://www.linkedin.com/in/dev-goel-833a25197/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devgoel186&theme=monokai&hide_border=true)](https://git.io/streak-stats)
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgoel186)](https://github.com/anuraghazra/github-readme-stats)
