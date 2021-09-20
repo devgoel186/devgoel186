@@ -36,5 +36,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=devgoel186&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoel186" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgoel186&theme=dracula" />
 </a>
