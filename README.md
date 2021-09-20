@@ -30,5 +30,10 @@
 * [**Twitter**](https://twitter.com/goeldev01)
 * [**LinkedIn**](https://www.linkedin.com/in/dev-goel-833a25197/)
 
-[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgoel186&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgoel186)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devgoel186&count_private=true&theme=merko&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devgoel186&repo=convoychat" />
+</a>
+
