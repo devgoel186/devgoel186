@@ -1,8 +1,6 @@
 ## Hi there 👋, I am Dev Goel!
 
-- 🔭 I’m currently a student pursuing an undergraduate degree in Computer Science. I am also a Full-Stack Web Developer, with experience in MERN Stack.
-
-- 🌱 I’m currently learning and exploring everything 😄!
+- 🔭 I’m a student pursuing an undergraduate degree in Computer Science.
 
 ### Tools and Technologies I am experienced with : 
 
@@ -13,16 +11,16 @@
 * NodeJS
 * TypeScript, SASS
 * Java, C, C++, Python, Tkinter, PyGame
-* R and RStudio
 * SQL
-* React Native
-* ElectronJS
+* Docker and Kubernetes
+* Shell Scripting
 
 ### Currently learning and exploring:
 
+* Compiler Design
+* Linux filesystems and compilation from scratch
+* Kernel programming and Multithreading in C/C++
 * Network Penetration and Testing
-* Machine Learning
-* Statistical Inference with Python
 
 ### 📫 How to reach me: 
 
